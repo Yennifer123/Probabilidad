@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\Proyecto Probabilidad\Probabilidad\bin\Debug\Probabilidad.exe.config
+C:\Users\Usuario\source\repos\Proyecto Probabilidad\Probabilidad\bin\Debug\Probabilidad.exe
+C:\Users\Usuario\source\repos\Proyecto Probabilidad\Probabilidad\bin\Debug\Probabilidad.pdb
+C:\Users\Usuario\source\repos\Proyecto Probabilidad\Probabilidad\obj\Debug\Probabilidad.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\Proyecto Probabilidad\Probabilidad\obj\Debug\Probabilidad.Form1.resources
+C:\Users\Usuario\source\repos\Proyecto Probabilidad\Probabilidad\obj\Debug\Probabilidad.Properties.Resources.resources
+C:\Users\Usuario\source\repos\Proyecto Probabilidad\Probabilidad\obj\Debug\Probabilidad.csproj.GenerateResource.cache
+C:\Users\Usuario\source\repos\Proyecto Probabilidad\Probabilidad\obj\Debug\Probabilidad.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\Proyecto Probabilidad\Probabilidad\obj\Debug\Probabilidad.exe
+C:\Users\Usuario\source\repos\Proyecto Probabilidad\Probabilidad\obj\Debug\Probabilidad.pdb
+C:\Users\Usuario\source\repos\Proyecto Probabilidad\Probabilidad\obj\Debug\Probabilidad.FormCalculoFactorial.resources
+C:\Users\Usuario\source\repos\Proyecto Probabilidad\Probabilidad\obj\Debug\Probabilidad.FormOperaciones.resources
